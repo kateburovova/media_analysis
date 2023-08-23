@@ -2,3 +2,5 @@ jupyter
 natasha
 spacy
 nltk
+natasha
+pandas
