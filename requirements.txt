@@ -4,3 +4,5 @@ spacy
 nltk
 natasha
 pandas
+torch
+pymorphy2
