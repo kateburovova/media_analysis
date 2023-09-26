@@ -6,3 +6,6 @@ natasha
 pandas
 torch
 pymorphy2
+pymongo
+openai
+python-dotenv
